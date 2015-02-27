@@ -1,5 +1,6 @@
 directory structure:
 
+```
 /app
   /elements
     my-element-1/ -> contains all the files of your polymer element (css, html, js...)
@@ -12,3 +13,4 @@ directory structure:
   /styles
   /test -> put your tests here (web-component-tester)
   index.html
+```
